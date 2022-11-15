@@ -1,6 +1,6 @@
 package se.lexicon;
 import java.util.*;
-public class collection {
+public class Linklist {
 
     public static void main(String args[]){
         LinkedList<String> linkList=new LinkedList<>();

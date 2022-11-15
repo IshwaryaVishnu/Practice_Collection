@@ -1,7 +1,7 @@
 package se.lexicon;
 import java.util.*;
 
-public class App 
+public class Arraylist
 {
     public static void main( String[] args )
     {
