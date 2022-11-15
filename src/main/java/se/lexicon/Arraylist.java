@@ -10,7 +10,7 @@ public class Arraylist
         //adding few elements
         arrList.add("India");
         arrList.add("Sweden");
-        arrList.add(0, "UK");
+        arrList.add(1, "UK");
         System.out.println("ArrayList Elements: ");
         //Traversing ArrayList using enhanced for loop
         for(String str:arrList)

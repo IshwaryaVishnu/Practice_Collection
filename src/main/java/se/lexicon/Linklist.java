@@ -7,7 +7,7 @@ public class Linklist {
         linkList.add("TamilNadu");
         linkList.add("Karnataka");
         //inserting element at first position
-        linkList.add(0, "Kerala");
+        linkList.add(1, "Kerala");
         System.out.println("LinkedList elements: ");
         //iterating LinkedList using iterator
         Iterator<String> iterator=linkList.iterator();
